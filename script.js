@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
       setTimeout(typeText, 100);
     }
   }
-
+  //something
   // Start typing after a short delay
   setTimeout(typeText, 500);
 
